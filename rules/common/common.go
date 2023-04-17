@@ -1,6 +1,6 @@
 package common
 
-import "github.com/olebedev/when/rules"
+import "github.com/mvgrimes/when/rules"
 
 var MONTHS_DAYS = []int{
 	0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31,

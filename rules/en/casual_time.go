@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/AlekSi/pointer"
-	"github.com/olebedev/when/rules"
+	"github.com/mvgrimes/when/rules"
 )
 
 func CasualTime(s rules.Strategy) rules.Rule {

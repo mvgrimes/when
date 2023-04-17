@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olebedev/when"
-	"github.com/olebedev/when/rules"
-	"github.com/olebedev/when/rules/en"
+	"github.com/mvgrimes/when"
+	"github.com/mvgrimes/when/rules"
+	"github.com/mvgrimes/when/rules/en"
 )
 
 func TestCasualDate(t *testing.T) {
